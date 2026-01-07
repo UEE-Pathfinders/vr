@@ -3,7 +3,7 @@ This is a breif guide to recommend some settings/options for Star Citizen using 
 
 Special Thanks to all the brilliant minds on [Star Citizen Reddit](https://reddit.com/r/startcitizen) and [Chachi's VR Citizen Discord](discord.gg/kJ9RHRuc6j) who have provided many of the tips and tricks in this guide.
 
-## Headset Calibration
+# Headset Calibration
 One of the most important things you can do to ensure you have a good VR experience in ***STAR CITIZEN VR*** is to get your headset well placed on your head, comfortable and make sure the physical IPD adjustments (if they are available) are as correct as possible for your unique face and eyes.
 
 1. Ensure the headset rests comfortably on your face, with a VR environment open, try sliding it up and down a bit to see where the ***Sweet Spot*** is where things are sharpest.  Once you find this look up and down with your eyes only.  If it is sharper down or up you may need prescription lenses as you are viewing the environment through stronger magnification at those points.  Keep adjusting in small increments until it is both comfortable and as sharp as possible when looking forward.
@@ -19,54 +19,55 @@ One of the most important things you can do to ensure you have a good VR experie
 
 Once your IPD has been set on your headset you can again play with the positioning/angle just to make sure its still as sharp as possible.  A good headstrap and facial interface can make a world of difference for this.  Bellow are some recommend accessorie for headsets, but I only own a Meta Quest 3 so if others wish to make recommendations please let me know!
 
-### Headset Accessories
+## Headset Accessories
 * *Disclosure this section uses amazon links that give me a few cents if someone uses them.  If you enjoy this guide and want to help me buy more VR toys please use these for your purchases.*
   
 These headset accessories can greatly improve your VR gaming experience in ***Star Citizen*** but are *not* required.  If you can afford them it is recommended for both your comfort and the ability to correctly position the headset for the clearest and most immersive experience.
 
-#### Quest 3 / 3S
+### Quest 3 / 3S
 
-**Meta Quest Elite Strap**  
+#### **Meta Quest Elite Strap**  
 Meta's own advanced headstrap with or without a battery on the back to help with headset life and balance. (Note when using Virtual Desktop you can go completely wireless so batteries can be nice if you dont mind the extra weight)
 * [Amazon - w/ battery](https://amzn.to/3N2QHAN)
 * [Amazon - no battery](https://amzn.to/4qb8zI3)
 
-**BoboVR S3 Pro Battery Strap**  
+#### **BoboVR S3 Pro Battery Strap**  
 This headset is like the swiss army knife of headsets including high capacity 10000mah hot-swappable battery, very comfortable headstrap that really supports the headset and even a cooling fan to keep your Quest 3/3s nice and cool.  It comes at the cost of adding a not small amount of weight, but many say the counterbalance of the battery and the better support makes it feel more comofrtable than default or meta straps.
 * [Amazon](https://amzn.to/4aPfAtw)
 
-**AMVR FC3 Upgraded Facial Interface**  
+#### **AMVR FC3 Upgraded Facial Interface**  
 This interface allows you to easily adjust the depth between your eyes and the lenses, providing a closer distance at default and a knob on either side to move your eyes further away and make room for glasses or luxurious lashes. It comes with two pads you can choose betweeen, a neoprene face pad and a more tradition faux vinyl padded pad(???).  Compared to the default facial interface this product provides excellent light lock which is ideal for immersion in ***Star Citizen VR***    
 - [Amazon](https://amzn.to/4pwd5Qy)
 
-## Software
+# Software
 It is highly recommended you use [Virtual Desktop](https://https://www.vrdesktop.net/) to stream the game to your headset in most instances. This software uses a wireless network to connect and stream modern codecs such as h.264 or AV1 to provide crisp clear quality, but requires 5ghz or better wireless router that is ideally in the same room in line of sight of your headset, also ideally dedicated to just this job.
 
 If you cannot afford the above or lack the required wireless equipment it will fall to your headsets standard PCVR solution, such as Meta Link for Quest 2/3/3s.  
 
-### Virtual Desktop Settings
+## Virtual Desktop Settings
 If you have a 5-6ghz dedicated router it is recommended under the streaming settings you use H.264+ at 500Mbit for the least latency and highest quality results.  If your network is not capable of supporting that without stuttering or issues and you have a Quest3, use AV1 for the lower bandwidth high quality option.  AV1 has the advantage of being a 10-bit codec so it is very pretty, but more prone to smearing and latency as it is complex to decode for the headset. 
 
 
-
-## Star Citizen VR Settings
+# Star Citizen VR Settings
 To play star citizen in VR you should first ensure you are able to run **Vulkan** in game. **DX11** will not work for VR with Star Citizen in its current incarnation. Again be aware this is an experimental feature and a lot will change in coming updates. 
 
-### Console Tweaks
+## Console Tweaks
 These settings are not cut and paste, you will want to play with these to get markers for QT and ships to look "right".  This is a temporary work around until **CIG** implements something more robust and handles the 2D text layers of the HUD in a way that makes sense for the 3D environment.  The settings below are ***MY*** settings and again you should start with things at a low number and experiment with them till they look good for ***YOU*** as these are dependent on the physical *IPD* settings of your headset and the *IPD Scaling* setting in the menus.
 
 
-`r_StereoScaleformDepth = 4` - Push the depth of labels out?
-`r_StereoUILayerScale = 1.25` - Use this to bring the markers together
-`r_StereoUiLensDepth = 20` - This is the same as IPD Scale slider in the VR settings, recommend you use that.
+`r_StereoScaleformDepth = 4` - Push the depth of labels out?  
+`r_StereoUILayerScale = 1.25` - Use this to bring the markers together  
+`r_StereoUiLensDepth = 20` - This is the same as IPD Scale slider in the VR settings, recommend you use that.  
 
-## Bonus Software
+# Bonus Software
 
-### Open Kneeboard
+## Open Kneeboard
+This application will allow you to create viewport in your VR environment that lets you view PDFs, notes, images, websites and even stream applications like chat or TTY Terminals to play with your favorite linux shell.  It is very configurable and can use both keyboard and controller shortcuts to switch views or hide the kneeboard.  You may even have multiple windows in your environment if you like to see many things at once.  
 
-### Other Passthrough App
+* Get it at [openkneeboard.com](https://openkneeboard.com/)
+## Other Passthrough App
 
 
-## Questions & Unknowns
+# Questions & Unknowns
 1. How to recenter the theatre screen upon loading VR star citizen.  Sometimes appears far to a side.
 2. ?
