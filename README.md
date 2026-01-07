@@ -1,7 +1,7 @@
 # Star Citizen VR Recommendations
 This is a breif guide to recommend some settings/options for Star Citizen using VR. Be aware that VR in ***Star Citizen*** is very experimental and the information contained in this guide may not be valuable from one patch to another.  I will do my best to keep it relevant but do not expect miracles.
 
-Special Thanks to all the brilliant minds on [Star Citizen Reddit](https://reddit.com/r/startcitizen) and [Chahci's VR Citizen Discord](discord.gg/kJ9RHRuc6j) who have provided many of the tips and tricks in this guide.
+Special Thanks to all the brilliant minds on [Star Citizen Reddit](https://reddit.com/r/startcitizen) and [Chachi's VR Citizen Discord](discord.gg/kJ9RHRuc6j) who have provided many of the tips and tricks in this guide.
 
 ## Headset Calibration
 One of the most important things you can do to ensure you have a good VR experience in ***STAR CITIZEN VR*** is to get your headset well placed on your head, comfortable and make sure the physical IPD adjustments (if they are available) are as correct as possible for your unique face and eyes.
@@ -51,3 +51,14 @@ These settings are not cut and paste, you will want to play with these to get ma
 `r_StereoScaleformDepth = 4` - Push the depth of labels out?
 `r_StereoUILayerScale = 1.25` - Use this to bring the markers together
 `r_StereoUiLensDepth = 20` - This is the same as IPD Scale slider in the VR settings, recommend you use that.
+
+## Bonus Software
+
+### Open Kneeboard
+
+### Other Passthrough App
+
+
+## Questions & Unknowns
+1. How to recenter the theatre screen upon loading VR star citizen.  Sometimes appears far to a side.
+2. ?
