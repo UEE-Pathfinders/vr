@@ -25,8 +25,14 @@ These headset accessories can greatly improve your VR gaming experience in ***St
 #### Quest 3 / 3S
 
 ##### Head Straps
-- Meta Pro Headstrap
-- Other Headstrap
+###### Meta Quest Elite Strap
+Meta's own advanced headstrap with or without a battery on the back to help with headset life and balance. (Note when using Virtual Desktop you can go completely wireless so batteries can be nice if you dont mind the extra weight)
+* [Amazon - w/ battery](https://amzn.to/3N2QHAN)
+* [Amazon - no battery](https://amzn.to/4qb8zI3)
+
+###### BoboVR S3 Pro Battery Strap
+This headset is like the swiss army knife of headsets including high capacity 10000mah hot-swappable battery, very comfortable headstrap that really supports the headset and even a cooling fan to keep your Quest 3/3s nice and cool.  It comes at the cost of adding a not small amount of weight, but many say the counterbalance of the battery and the better support makes it feel more comofrtable than default or meta straps.
+* [Amazon](https://amzn.to/4aPfAtw)
 
 ##### Facial Interfaces
 - Something Something Darkside
