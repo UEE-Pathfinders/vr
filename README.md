@@ -21,21 +21,21 @@ Once your IPD has been set on your headset you can again play with the positioni
 
 ### Headset Accessories
 * *Disclosure this section uses amazon links that give me a few cents if someone uses them.  If you enjoy this guide and want to help me buy more VR toys please use these for your purchases.*
-
+  
 These headset accessories can greatly improve your VR gaming experience in ***Star Citizen*** but are *not* required.  If you can afford them it is recommended for both your comfort and the ability to correctly position the headset for the clearest and most immersive experience.
 
 #### Quest 3 / 3S
 
-**Meta Quest Elite Strap**
+**Meta Quest Elite Strap**  
 Meta's own advanced headstrap with or without a battery on the back to help with headset life and balance. (Note when using Virtual Desktop you can go completely wireless so batteries can be nice if you dont mind the extra weight)
 * [Amazon - w/ battery](https://amzn.to/3N2QHAN)
 * [Amazon - no battery](https://amzn.to/4qb8zI3)
 
-**BoboVR S3 Pro Battery Strap**<D-s>
+**BoboVR S3 Pro Battery Strap**  
 This headset is like the swiss army knife of headsets including high capacity 10000mah hot-swappable battery, very comfortable headstrap that really supports the headset and even a cooling fan to keep your Quest 3/3s nice and cool.  It comes at the cost of adding a not small amount of weight, but many say the counterbalance of the battery and the better support makes it feel more comofrtable than default or meta straps.
 * [Amazon](https://amzn.to/4aPfAtw)
 
-**AMVR FC3 Upgraded Facial Interface**
+**AMVR FC3 Upgraded Facial Interface**  
 This interface allows you to easily adjust the depth between your eyes and the lenses, providing a closer distance at default and a knob on either side to move your eyes further away and make room for glasses or luxurious lashes. It comes with two pads you can choose betweeen, a neoprene face pad and a more tradition faux vinyl padded pad(???).  Compared to the default facial interface this product provides excellent light lock which is ideal for immersion in ***Star Citizen VR***    
 - [Amazon](https://amzn.to/4pwd5Qy)
 
