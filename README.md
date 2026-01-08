@@ -1,9 +1,102 @@
-# Star Citizen VR Recommendations
-This is a breif guide to recommend some settings/options for Star Citizen using VR. Be aware that VR in ***Star Citizen*** is very experimental and the information contained in this guide may not be valuable from one patch to another.  I will do my best to keep it relevant but do not expect miracles.
+# Star Citizen VR - A Guide
+If you are reading this it means you are ready to experience **Star Citizen**
+like never before. This guide is free for all and anyone is welcome to copy,
+modify, re-distribute or share in what ever way they choose, so long as they do
+not charge or limit access for personal gain.
+
+My own journey (still going) into ***Star Citizen VR*** would never be possible if
+not for the incredible SC community that has worked together along with  the
+fantastic devs to share information and guides. The VR gaming community may  be
+one of the most welcoming groups of people I've found on the internet who just
+want to share this amazing way to experience games and virtual worlds.  So I
+continue the sharing as this is just a collection of the many tidbits I gathered
+throughout my journey.
 
 Special Thanks to all the brilliant minds on [Star Citizen Reddit](https://reddit.com/r/startcitizen) and [Chachi's VR Citizen Discord](discord.gg/kJ9RHRuc6j) who have provided many of the tips and tricks in this guide.
 
-# Headset Calibration
+## Who is this appropriate for
+Any ***Star Citizen*** play who is either just curious about playing in VR, or
+the hardened VR veteran looking for tips to improve their experience.
+
+## Do I need to buy anything?
+While this guide and the knowledge that has been collected in it are absolutely
+free, there are quite a few things to invest in to improve and enhance your
+enjoyment of ***Star Citizen VR***, in particular the VR Headset. At the time of
+writing this I only own a Meta Quest 3, but will try to offer other options and
+info when possible.
+
+## Updates and Plans
+***Star Citizen VR*** is *EXPERIMENTAL* and *WILL* change.  I will do my best to
+stay up to date and current with the latest changes and information, but please
+be patient while we all discover the best ways to tune our SCVR experiences.
+
+## Now What?
+There is no single magic trick or fix nor software or plugin that will make
+***Star Citizen VR*** perfect, but instead a series of incremental improvements
+that will have a cumulative effect on your VR experience. We will touch on as
+many of these as possible but recommend you also do your own seeking for
+knowledge, and if you find something helpful, *Let Us Know!*
+
+# The Physical Things
+You are going to need a **VR** headset in order to experience ***Star Citizen
+VR*** and a computer capable of feeding the headset double the frames you might
+normally experience with just a monitor.  This poses unique challenges for VR
+that your average gamer does not have to contend with.   
+
+## A Brief Primer on Virtual Reality
+In order to trick your brain into thinking it is seeing depth in the game it
+uses an age old trick of providing two different views, one for each eye that
+creates proper parallax and convinces our brains we are seeing something 3D. To
+accomplish this illusion the game must render two different points of view (one
+for  each eye) and send them to the headset, effectively doubling the amount of
+rendering necessary.  To make it even worse one of the biggest contributors to
+motion sickness in VR is the frame rate and latency.  While you may have been ok
+dipping down to the 30s on your 8K monitor, you will want to maintain 60fps+
+while rendering two eyes.   
+
+### Motion Sickness! Oh no!
+You've undoubtedly heard of VR motion sickness bynow, if not here is a
+heads up!  Some people experience motion sickness while using VR headsets due to
+small (or big) incongruities between what the brain expects to experience, and
+what we actually experience.  For example, when you move forward and see the
+feedback of the world moving around you, your brain also expects to feel that
+movement via the inner ear, the feel of air moving across your skin, and the
+physical muscle movement of your legs.  VR can only provide one of those inputs
+so the brain goes "WHOA! WHOA! I don't like this!" and you feel very green and
+like you might puke.  Luckily there are some things we can do to help with this.
+
+- **Time**: Usually people adapt and get their "*VR*" legs, not dissimilar to
+the idea of Sea Legs.  This depends on the person and how quickly they adapt.
+- **Fans**: You can trick the brain with a little physical sensation by having a
+  small fan on your desk blowing on your face to help the brain accept what it
+is seeing.
+- **Frame Rate**: High frame rates remove the delay between frames, resulting is smooth motion without blur or stutter. This has a outsized effect on motion sickness.  
+- **Latency**: Keeping latency (delay between action and seeing it happen) as
+low as possible will help a lot with the brains sense of reality.  The more
+disconnected the visuals are from the expected feedback the worse it will get.
+- **Acclimate**: Play some VR games that don't require movement or rapid input to
+  help your brain acclimate to the headset and 3D environments.
+
+In the end every individual is different so your experience of this can and will
+vary.
+
+## Eye Position
+More than anything the position of our eyes in relation to the lenses and
+screens in our VR headsets will have the biggest impact on our experience, more
+than just about anything else.  A centimeter forward, back up or down can make
+the difference between a blurry and muddy nausea filled visual and sharp crisp and comfortable view.
+
+### Inter Pupillary Distance (IPD)
+The first thing we are going to do in order to provide the most natural and non
+vomit inducing experience in VR is to measure our I.P.D. and adjust our headset to
+match.  This measurement is the distance between the center of your left and
+right pupils (the dark chewy center of your eyes).  
+# How To Get The Best Experience
+There is no single magic trick for to get the most out of ***Star Citizen VR***,
+instead we will go through a series of 
+
+
+
 One of the most important things you can do to ensure you have a good VR experience in ***STAR CITIZEN VR*** is to get your headset well placed on your head, comfortable and make sure the physical IPD adjustments (if they are available) are as correct as possible for your unique face and eyes.
 
 1. Ensure the headset rests comfortably on your face, with a VR environment open, try sliding it up and down a bit to see where the ***Sweet Spot*** is where things are sharpest.  Once you find this look up and down with your eyes only.  If it is sharper down or up you may need prescription lenses as you are viewing the environment through stronger magnification at those points.  Keep adjusting in small increments until it is both comfortable and as sharp as possible when looking forward.
@@ -61,13 +154,22 @@ These settings are not cut and paste, you will want to play with these to get ma
 
 # Bonus Software
 
-## Open Kneeboard
-This application will allow you to create viewport in your VR environment that lets you view PDFs, notes, images, websites and even stream applications like chat or TTY Terminals to play with your favorite linux shell.  It is very configurable and can use both keyboard and controller shortcuts to switch views or hide the kneeboard.  You may even have multiple windows in your environment if you like to see many things at once.  
+## Open Kneeboard  
 
-* Get it at [openkneeboard.com](https://openkneeboard.com/)
-## Other Passthrough App
+This application will allow you to create viewport in your VR environment that
+lets you view PDFs, notes, images, websites and even stream applications like
+chat or TTY Terminals to play with your favorite linux shell. It is very
+configurable and can use both keyboard and controller shortcuts to switch views
+or hide the *Kneeboard* view.  You may even have multiple windows in your
+environment if you like to see many things at once.   
+
+* Get it at [openkneeboard.com](https://openkneeboard.com/) 
+
+## Other Passthrough App  
 
 
 # Questions & Unknowns
+
 1. How to recenter the theatre screen upon loading VR star citizen.  Sometimes appears far to a side.
+
 2. ?
