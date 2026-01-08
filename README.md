@@ -96,7 +96,44 @@ soft or blurry visuals.
 
 The lenses of the headset are calibrated to have the sharpest image in the
 center, with a gradual fall off that enables a wide field of view as you go to
-the outside edges of the lens.
+the outside edges of the lens. (*this is my understanding and may not be an
+accurate description*)
+
+#### Measuring the Pupillary Distance
+In order to get your personal and unique PD or IPD you have a couple options.
+The simplest is using a ruler and a mirror, the fanciest is using an app on your
+phone and the most rewarding is getting a friend to help you.  
+
+* Rule and Mirror
+    1. Get a ruler of some sort that has centimeters indicated on it.  It can be
+       hard, see through, soft, cloth anything will really work.
+    2. Find a good mirror and lean close to it so you can see the marks of the
+       ruler clearly while holding it over your eyes. Make sure you keep looking
+       straight ahead the entire time.
+    3. Close the eye on the opposite side of the ruler with the 0 mark and align
+       the `0` over the center of your pupil.  If you can bring the ruler down
+    so it covers part of your eye to be as accurate as possible it is
+    encouraged.
+    4. Hold the ruler tightly in place and close the first eye and open the
+       second.
+    5. Read the mark on the ruler aligned with the center of your pupil on your
+       second eye.  This number (typically between 60-70mm) is your ***Pupilary
+       Distance***.  Write it down somewhere so you don't forget.
+
+* The friends we made along the way
+    1. Find a friend (the hard part).  Family members will suffice and a
+       stranger in a pinch.
+    2. Have them follow the instructions above, but they are the mirror and can
+       easily see the marks over the center of your pupils while you look
+    straight ahead.
+
+* AI Overlords
+    1. Download an app such as <APP1> or <APP2> and use the camera on your phone
+       and some kind of facial recognition to make a best guess at your PD /
+    IPD.  
+    2. Note the number so you can see how wrong it is later when you use a ruler
+       because nothing lines up right.
+
 
 ### Eye to Lens Distance
 In the same vein it is recommended that you get your eyes as close to the lens
