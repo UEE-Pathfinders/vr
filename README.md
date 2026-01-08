@@ -86,11 +86,85 @@ screens in our VR headsets will have the biggest impact on our experience, more
 than just about anything else.  A centimeter forward, back up or down can make
 the difference between a blurry and muddy nausea filled visual and sharp crisp and comfortable view.
 
-### Inter Pupillary Distance (IPD)
-The first thing we are going to do in order to provide the most natural and non
-vomit inducing experience in VR is to measure our I.P.D. and adjust our headset to
-match.  This measurement is the distance between the center of your left and
-right pupils (the dark chewy center of your eyes).  
+### Pupillary Distance (PD or IPD)
+This is the distance between the center of your pupils when looking straight
+ahead, typically measured in centimeters. Knowing this measurement is important
+for modern VR headsets so that we can make adjustments to the lens position so
+the center of the lens is lined up with your pupils.  If the lenses are not
+aligned you are likely to experience disorientation or VR sickness, as well as
+soft or blurry visuals.
+
+The lenses of the headset are calibrated to have the sharpest image in the
+center, with a gradual fall off that enables a wide field of view as you go to
+the outside edges of the lens.
+
+### Eye to Lens Distance
+In the same vein it is recommended that you get your eyes as close to the lens
+of the headset as possible to provide the best experience.  As you move closer
+to the lens you will be able to see more of the outside part of the screens as
+well as have more "sweet spot" in the middle as it is closer.   Most headsets
+allow some rudimentary adjustments for distance, and third party facial
+interfaces that allow much finer adjustments and make room for those who must
+wear glasses or other vision aides.  
+
+### Vertical Eye Adjustment
+This is a more manual adjustment that is normally just a case of making sure the
+headset and facial interface are comfortably aligned up and down with your eyes
+and secure so it wont slip.  To achieve this I recommend loosening any straps or
+controls for your head mount and holding the headset against your face *gently*
+with a free hand.  Then while looking at a test image or something with a lot of
+text, carefully adjust the headset not only up and down on your face and where
+it rests on your cheek bones until the image becomes as sharp as possible.
+Once you have done this gently tighten the head straps so that the facial
+interface does not move and feels secure.  Some head mounts have a strap or
+adjustment running across the top of your head to take the weight of the headset
+and make it comfortable, be sure tighten this until the facial interface is just
+lightly pressing against your face/cheekbones.  
+
+### Lens Angle
+Lastly and your millage may vary some headsets allow you to also change the
+angle of the headset/facial interface so that the lenses are more or less flat
+to your eyes. While viewing some kind of text or test image try looking down or
+up with your face still facing forward.  If the image becomes sharper than when
+looking straight ahead you can try slightly tweaking the tilt of the headset
+while keeping it secure and comfortable and it may improve your experience. This
+may also be an indicator that you could use prescription lens inserts as you are
+seeing things sharper through the thicker part of the lens.  
+
+### Prescriptions and Headsets
+If at the end of the day you just cannot get a sharp image and everything is
+blurry no matter what you try, you may need a prescription.  You have a few
+options to help in this case.
+
+#### Custom Prescription Inserts
+These are custom shaped lenses you can order with your prescription and they
+will be sent to you and typically use magnets or some kind of clip to snap into
+your headset in-front of the lenses.
+
+**Pros** 
+* No need for glasses or contacts, you can comfortably wear the
+headset with minimal fuss.
+* Often very affordable and custom to your prescription/headset.
+
+**Cons*
+* Quality may not be as good as lenses from an optometrist.
+* The additional layer lenses may increase reflections and glare.
+
+#### Contact Lenses
+Some users prefer these, especially if they are part of their daily ware.  These
+must be got using a prescription from an Optometrist, though there are some over
+the shelf versions it is highly discouraged.  
+
+**Pros**
+* Custom fit and high quality.  If the prescription is up to date these should
+solve any visual issues without adding additional layers of glass or plastic
+lenses.
+* May already be part of your 
+
+#### Contact Lenses
+Some folks prefer to wear contacts with VR as it does not interfere with the
+visuals (inserts can so)
+
 # How To Get The Best Experience
 There is no single magic trick for to get the most out of ***Star Citizen VR***,
 instead we will go through a series of 
